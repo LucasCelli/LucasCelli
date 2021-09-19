@@ -2,5 +2,5 @@
 Oi
 </div> 
 
-[![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=lucascelli&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Minhas estatísticas](https://github-readme-stats.vercel.app/api/toplangs/?username=lucascelli&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=lucascelli&theme=github_dark)](https://lusca.me/)
+[![Melhores linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascelli&theme=github_dark)](https://lusca.me/)
