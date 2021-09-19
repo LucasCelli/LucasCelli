@@ -3,4 +3,4 @@ Oi
 </div> 
 
 [![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=lucascelli&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Minhas estatísticas](https://github-readme-stats.vercel.app/toplangs/api?username=lucascelli&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas estatísticas](https://github-readme-stats.vercel.app/api/toplangs/?username=lucascelli&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
