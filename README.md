@@ -6,7 +6,7 @@
   background: cyan;
   }
   </style>
-<div style="hello">
+<div class="hello">
   a
   </div>
 
