@@ -1,5 +1,8 @@
-[![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=lucascelli&theme=github_dark&locale=pt-br&show_icons=1)](https://lusca.me/)
-[![Melhores linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascelli&theme=github_dark&locale=pt-br)](https://lusca.me/)
+<div>
+<a href="https://celli.dev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascelli&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
+</div>
 
 ##
 
