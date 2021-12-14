@@ -1,3 +1,4 @@
+<img width="680em" src="https://i.imgur.com/FWW3je9.png"/>
 <div>
 <a href="https://celli.dev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascelli&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
