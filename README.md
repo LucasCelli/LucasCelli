@@ -1,4 +1,6 @@
-<img width="680em" src="https://lusca.me/img/git.gif"/>
+<a href="https://celli.dev">
+  <img width="680em" src="https://lusca.me/img/git.gif"/>
+</a>
 <div>
 <a href="https://celli.dev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascelli&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
