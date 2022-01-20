@@ -1,4 +1,4 @@
-<a href="https://celli.dev">
+<a href="https://celli.dev" target="_blank">
   <img width="680em" src="https://lusca.me/img/git.gif"/>
 </a>
 <div>
