@@ -1,11 +1,6 @@
 <a href="https://celli.dev" target="_blank">
   <img width="680em" src="https://lusca.me/img/git.gif"/>
 </a>
-<div>
-<a href="https://celli.dev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascelli&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
-</div>
 
 ##
 
